@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "content": "React is a JavaScript library for building user interfaces...",
+        "author": "John Doe",
+        "category": "JavaScript"
+      },
+      {
+        "id": 2,
+        "title": "Understanding useState and useEffect",
+        "content": "useState and useEffect are two of the most commonly used hooks in React...",
+        "author": "Alice Johnson",
+        "category": "React"
+      }
+    ]
+  }
+  
